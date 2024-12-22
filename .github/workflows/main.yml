@@ -36,7 +36,7 @@ jobs:
           # Repository description
           repoDescription: Default Organisation Repository
           # Repository visibility
-          repoVisibility: public
+          repoVisibility: private
           # Security token
           securityToken: ${{ secrets.PAT }}
           
